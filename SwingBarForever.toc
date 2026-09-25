@@ -1,0 +1,34 @@
+## Interface: 11509, 16001, 20506
+## Title: SwingBarForever
+## Title-deDE: SwingBarForever (Deutsch)
+## Title-esES: SwingBarForever (Español)
+## Title-esMX: SwingBarForever (Español)
+## Title-frFR: SwingBarForever (Français)
+## Title-itIT: SwingBarForever (Italiano)
+## Title-koKR: SwingBarForever (한국어)
+## Title-ptBR: SwingBarForever (Português)
+## Title-ruRU: SwingBarForever (русский)
+## Title-zhCN: SwingBarForever (中文)
+## Title-zhTW: SwingBarForever (中文)
+## Category: Combat
+## Category-deDE: Kampf
+## Category-esES: Combate
+## Category-esMX: Combate
+## Category-frFR: Combat
+## Category-itIT: Combattimento
+## Category-koKR: 전투
+## Category-ptBR: Combate
+## Category-ruRU: Бой
+## Category-zhCN: 战斗
+## Category-zhTW: 戰鬥
+## Author: besya
+## Version: 0.1.0
+## DefaultState: enabled
+## OptionalDeps: ColorPickerPlus
+## SavedVariables: WST_Profiles
+## SavedVariablesPerCharacter: WST_Character
+
+SwingBarFrameTemplates.lua
+SwingBarFrameTemplates.xml
+SwingBarFrame.lua
+SwingBarFrame.xml
